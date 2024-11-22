@@ -20,7 +20,7 @@ Uma aplicação web simples que permite ao usuário se cadastrar, fazer login e 
 
 Confira o **Teste de Visualização** das páginas diretamente no Netlify:
 
-[**Anime Web** no Netlify](https://projetologinweb.netlify.app/pages/)
+[**Anime Web** no Netlify](https://justanimeweb.netlify.app/pages/)
  
 
 
